@@ -43,6 +43,9 @@ My chosen API for this project is **enter here**.
 Here's a video / GIF that demos all of the app's implemented features:
 <https://www.loom.com/share/ed79cba4e8784d188e20cef1bb7b74d6?sid=9cc285aa-0832-4e83-8523-d95928646e03/>
 
+
+
+
 <img src='https://i.imgur.com/W5eD4l4.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **loom**
